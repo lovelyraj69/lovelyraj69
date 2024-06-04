@@ -11,20 +11,20 @@ Fullstack Developer @ Avi Corporation
 - Cloud computing with AWS and Docker
 
 👨‍💻 **Tech Stack:**
-- **Frontend:** HTML, CSS, JavaScript, React, Redux, TypeScript
+- **Frontend:** HTML, CSS, JavaScript, React, TypeScript
 - **Backend:** Node.js, Express.js, Python, Django
-- **Database:** MongoDB, PostgreSQL, MySQL
-- **Tools:** Git, Docker, AWS, Jenkins, CI/CD
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, Docker, AWS
 
 💬 **Ask me about:**
 - Full Stack Development
 - Best practices in software engineering
 - Tips for remote work and productivity
 
-- 📫 **How to reach me :**
+📫 **How to reach me :**
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eniyaraj-l-1361022a3/)
 
-- 😄 **Pronouns:**
+😄 **Pronouns:**
 - Techie
   
 ⚡ **Fun fact:**
