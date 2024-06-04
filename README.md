@@ -9,7 +9,7 @@ Fullstack Developer @ Avi Corporation
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(www.linkedin.com/in/eniyaraj-l-1361022a3)
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/eniyaraj-l-1361022a3)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
