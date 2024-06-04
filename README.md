@@ -8,7 +8,8 @@ Fullstack Developer @ Avi Corporation
 - 🤔 I’m looking for help with Freelancing
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.facebook.com/eniya.raj.90) [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/lovely_ran_69)]
+<br /> [<img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.facebook.com/eniya.raj.90) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />](https://www.instagram.com/lovely_ran_69)
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/eniyaraj-l-1361022a3)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
