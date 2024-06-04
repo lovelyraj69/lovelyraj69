@@ -2,33 +2,15 @@
 
 Fullstack Developer @ Avi Corporation
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-🔭 **Currently working on:**
-- Cutting-edge web applications using React, Node.js, and MongoDB
-- Open source projects to give back to the community
-
-🌱 **Learning & Exploring:**
-- Advanced TypeScript and GraphQL
-- Cloud computing with AWS and Docker
-
-👨‍💻 **Tech Stack:**
-- **Frontend:** HTML, CSS, JavaScript, React, TypeScript
-- **Backend:** Node.js, Express.js, Python, Django
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, Docker, AWS
-
-💬 **Ask me about:**
-- Full Stack Development
-- Best practices in software engineering
-- Tips for remote work and productivity
-
-📫 **How to reach me :**
+- 🔭 Here's my [portfolio]()                                                 
+- 🌱 I’m currently learning Ethical Hacking
+- 👯 I’m looking to collaborate on ML/AI
+- 🤔 I’m looking for help with Freelansing
+- 💬 Ask me about Tech
+- 📫 How to reach me :
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eniyaraj-l-1361022a3/)
-
-😄 **Pronouns:**
-- Techie
-  
-⚡ **Fun fact:**
-- When I’m not coding, you can find me exploring new hiking trails or playing guitar.
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: I know Japanese.
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
